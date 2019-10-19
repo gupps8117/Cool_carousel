@@ -1,6 +1,6 @@
 # Cool_carousel
 
- License: MIT
+ ## License: MIT
 
 This is a Javascript Plugin that hold a 'Carousel' template as a customizable carousel.
 
@@ -11,7 +11,6 @@ This library will provide you the neat implementation of 'carousel' template for
 
 Prerequisites
 For a working implementation, have a look at the module.
-
 
 
 Usage
